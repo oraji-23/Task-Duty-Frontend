@@ -1,0 +1,77 @@
+span {
+  color: #974fd0;
+  border: none;
+  font-family: Signika Negative;
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.home-btn {
+  background: #974fd0;
+}
+
+#root {
+  text-align: center;
+}
+
+.plus-sign {
+  width: 20px;
+  height: 20px;
+}
+
+.edit-icon {
+  background-color: #974fd0;
+  color: white;
+  width: 100px;
+  border-color: #974fd0;
+}
+
+.delete-icon {
+  background-color: white;
+  color: #974fd0;
+  width: 100px;
+  border-color: #974fd0;
+}
+
+.top {
+  color: #974fd0;
+}
+.task-t {
+  top: -12px;
+  left: 40px;
+  background-color: white;
+}
+
+.decrip {
+  top: -14px;
+  left: 150px;
+  background-color: white;
+}
+
+.aTag {
+  bottom: 30%;
+}
+
+.dropdown-options {
+  list-style: none;
+  text-align: right;
+  cursor: pointer;
+  background-color: whitesmoke;
+}
+
+.dropdown-options li {
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+.dropdown-options li:hover {
+  background-color: #b8b6b6;
+  color: white;
+}
+
+.drop-btn{
+ background-color: #974fd0;
+ color: white;
+ border: none;
+ border-radius: 8px;
+}
